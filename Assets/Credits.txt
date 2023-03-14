@@ -1,0 +1,13 @@
+Ninja Game 2D- 32.5MB
+
+Its an Infinite Scroller Game Where the player has 4 health icons and has to jump from platform to platform and has a push down button on the left for pusing the player to the platform.The player has to avoid spike and an enemy which appears randomly and we can throw a weapon for killing the enemy.The player can collect the coins for extra points.When hit a spike 1 health gets decreased and when hit an enemy two health gets reduced.
+
+
+
+Assets
+
+Ninja.png - Metarvrse Immersice Technologies
+Sounds-opengameart.org
+Items,HUD,Tiles-google.com
+Font-1001fonts.com
+Scripts-2D infinite scroller game Tutorials

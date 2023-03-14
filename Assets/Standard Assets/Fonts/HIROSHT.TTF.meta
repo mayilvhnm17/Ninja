@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 39f5ed1aa4aa22c4682cde62085a051a
+timeCreated: 1508265557
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hirosh
+  fontNames:
+  - Hirosh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
